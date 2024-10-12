@@ -89,6 +89,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 [issues-badge]: https://img.shields.io/github/issues-raw/alexgoryushkin/BBB.svg?maxAge=25000
 
-[issues]: https://github.com/alexgoryushkin/R/issues "Issues"
+[issues]: https://github.com/alexgoryushkin/BBB/issues "Issues"
 
 [last-commit-badge]: https://img.shields.io/github/last-commit/alexgoryushkin/BBB.svg?style=flat
